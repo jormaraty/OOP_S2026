@@ -1,4 +1,4 @@
-package mod/*
+/*
 Lambda parametrina;
 Tässä esimerkissä tehdään versio, jolla voitaisiin kaikki suorittaa kaikki peruslaskutoimitukset.
 Käytetään itse tehtyä rajapintaa Laskenta.
